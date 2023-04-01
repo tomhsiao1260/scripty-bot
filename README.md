@@ -13,7 +13,7 @@ Once finished, you can clone this repo and enter the following command.
 npm install
 ```
 
-And then follow this format to create an file called `.env` with your personal Discord token.
+And then create a file called `.env` with your personal Discord token.
 
 ```
 DISCORD_TOKEN=YOUR_TOKEN
